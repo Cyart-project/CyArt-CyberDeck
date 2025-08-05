@@ -18,7 +18,7 @@ There are two setup guides included in the repository:
 
 1. Agent Setup Guide (Requirements.txt) – How to install Tailscale and connect to the Wazuh server.
 
-2. Project Installation Guide – How to unzip files, install dependencies, and run the backend/frontend.
+2. Project Installation Guide (README.md)– How to unzip files, install dependencies, and run the backend/frontend.
 
 >>>>>🚀 Quick Start<<<<<
 
