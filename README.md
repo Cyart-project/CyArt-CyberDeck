@@ -68,7 +68,10 @@ Run the frontend:
 
 📂 Repository Structure
 
-├── Agent Setup Read Me.txt     # Tailscale & Wazuh connection guide
+├── Requirements.txt     # Tailscale & Wazuh connection guide
+
 ├── Readme.txt                  # Detailed backend/frontend setup steps
+
 ├── frontend/
+
 └── backend/
